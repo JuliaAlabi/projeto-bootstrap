@@ -1,0 +1,28 @@
+.nav-link {
+    transition: background-color 0.3s;
+    border-radius: 6px;
+  }
+  .nav-link:hover {
+    background-color: #5ca2df; 
+    color: white; 
+    border-radius: 6px;
+  }
+
+  .bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  .info{
+    align-items: center;
+    text-align: center;
+  }
+
+  .filme{
+    width: 100%;
+    background-color: #5ca2df;
+    color: #fff;
+  }
